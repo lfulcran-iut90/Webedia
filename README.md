@@ -1,7 +1,7 @@
 # Webedia
 
-Groupe 12 - Email Référent : lucas.fulcrand@edu.univ-fcomte.fr
-Nbs d'étudiants : 3
+Groupe 12 - Email du référent : lucas.fulcrand@edu.univ-fcomte.fr
+Nbs d'étudiants : 3 
 
 FULCRAND Lucas
 SALMI Billal
