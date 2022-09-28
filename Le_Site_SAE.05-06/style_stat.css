@@ -1,0 +1,47 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    display:inline;
+    padding: 25px;
+    margin-top: 90px;
+    border: solid 5px blue;
+}
+
+ul{
+    text-align: right;
+    margin-top:-40px;
+    margin-right: 25px;
+}
+
+.barre_nav{
+    background-color: blue ;
+    opacity: 70%;
+    padding: 63px;
+    padding-bottom: 30px;
+    margin: -1%;
+}
+
+li:hover{
+    font-size: 20px;
+    transition: ease-in-out 0.5s;
+    cursor: pointer;
+    color: blue;
+    background-color: white;
+  }
+
+.container-flex{display: flex;}
+.container{justify-content: space-evenly;}
+.container{align-items: center;}
+
+.image1{
+  padding: 100px;
+}
+
+.image2{
+  padding: 20px;
+}
