@@ -1,5 +1,14 @@
 body{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Advent Pro', sans-serif;
+}
+
+h1{
+  text-align: center;
+  color: rgb(164, 184, 252);
+  text-shadow: 1px 4px 2px black;
+  font-size: 4em;
+  margin-top: 130px;
+  margin-bottom: 100px;
 }
 
 li{
@@ -26,21 +35,31 @@ ul{
     margin: -1%;
 }
 .diagramme {
-    width: 90px;
-    height: 90px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
     margin-left: 30px;
-    margin-bottom: -45px;
-    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-top: 80px;
     background-image: conic-gradient(
         orange 40deg,
         #9900CC 0 170deg,
         #000066 0);
 }
 
+h2{
+  color: rgb(56, 49, 49);
+  text-shadow: 1px 4px 2px black;
+  font-size: 3em;
+  margin-left: 140px;
+  margin-top: -110px;
+}
+
 .webedia{
-  padding-left: 175px;
-  margin-top: -48px;
+    width: 400px;
+    margin-left: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 li:hover{
@@ -61,14 +80,11 @@ li:hover{
 
 .bloc{text-align: center;}
 
-.image1{
-  padding: 30px;
-}
+.image1{padding: 30px;}
+.pose1{margin-left: 260px;}
 
-.image2{
-  padding: 40px;
-}
+.image2{padding: 40px;}
+.pose2{margin-left: 140px;}
 
-.image3{
-  padding: 40px;
-}
+.image3{padding: 40px;}
+.pose3{margin-left: 100px;}
