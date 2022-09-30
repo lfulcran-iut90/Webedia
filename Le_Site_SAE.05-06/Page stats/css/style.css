@@ -14,16 +14,33 @@ li{
 
 ul{
     text-align: right;
-    margin-top:-40px;
-    margin-right: 25px;
+    margin-top:-60px;
+    margin-right: 60px;
 }
 
 .barre_nav{
     background-color: blue ;
     opacity: 70%;
-    padding: 63px;
+    padding: 10px;
     padding-bottom: 30px;
     margin: -1%;
+}
+.diagramme {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-bottom: -45px;
+    margin-top: 20px;
+    background-image: conic-gradient(
+        orange 40deg,
+        #9900CC 0 170deg,
+        #000066 0);
+}
+
+.webedia{
+  padding-left: 175px;
+  margin-top: -48px;
 }
 
 li:hover{
@@ -38,6 +55,20 @@ li:hover{
 .container{justify-content: space-evenly;}
 .container{align-items: center;}
 
-.image{
-  padding: 100px;
+.item{border: 1px solid black}
+.item-width{width: 350px}
+.item-height-small{height: 60px;}
+
+.bloc{text-align: center;}
+
+.image1{
+  padding: 30px;
+}
+
+.image2{
+  padding: 40px;
+}
+
+.image3{
+  padding: 40px;
 }
