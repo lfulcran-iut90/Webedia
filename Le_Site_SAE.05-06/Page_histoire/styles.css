@@ -25,7 +25,7 @@ a{
     color: white;
 }
 
-/********* NAVBAR ********/
+/************** NAVBAR **************/
 
 nav{
     top: 0;
@@ -79,6 +79,80 @@ h1 {
     font-size: 4em;
     margin-top: 110px;
     text-shadow: 1px 4px 2px black;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-bottom: 0px;
+    border: solid black;
+    border-radius: 50px;
+    background-color: #0028BE   ;
+}
+
+/************** TIMELINE **************/
+
+.timeline{
+	width:800px;
+	color:#0028BE;
+	padding: 0px 500px;
+}
+
+.timeline ul{
+	list-style-type: none;
+	border-left: 8px solid #094a68;
+	padding: 10px 5px;
+}
+
+.timeline ul li{
+	padding:20px 20px;
+	position: relative;
+	cursor:pointer;
+	transition:.5s;
+}
 
 
+.timeline ul li span{
+	display:inline-block;
+	background-color:#1685b8;
+	border-radius:25px;
+	padding:2px 5px;
+	font-size:15px;
+	text-align: center;
+}
+.timeline ul li .content h3{
+	color:#34ace0;
+	font-size:17px;
+	padding-top:5px;
+}
+.timeline ul li .content p{
+	padding:5px 0px 15px 0px;
+	font-size:15px;
+}
+.timeline ul li:before{
+	position:absolute;
+	content:'';
+	width:10px;
+	height:10px;
+	background-color:#34ace0;
+	border-radius:50%;
+	left:-14px;
+	top:28px;
+	transition:.5s;
+}
+.timeline ul li:hover{
+	background-color:#0028BE;
+    color: white;
+}
+.timeline ul li:hover:before{
+	background-color:#0F0;
+	box-shadow:0px 0px 10px 2px #0F0;
+}
+@media (max-width:300px){
+	.timeline{
+		width:100%;
+		padding:30px 5px 30px 10px;
+	}
+	.timeline ul li .content h3{
+		color:#34ace0;
+		font-size:15px;
+	}
 
+}
