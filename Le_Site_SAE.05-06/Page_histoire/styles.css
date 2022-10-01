@@ -25,6 +25,8 @@ a{
     color: white;
 }
 
+
+
 /************** NAVBAR **************/
 
 nav{
@@ -54,12 +56,18 @@ header li a{
 
 /************** TEXTE **************/
 
-#info1{
-    text-transform: uppercase;
+#slogan{
+    font-family: 'Dancing Script', cursive;
     text-align: center;
     color: #0028BE;
     padding-top: 100px;
-    font-size: 30px;
+    font-size: 60px;
+}
+
+#info1{
+    font-size: 30px ;
+    color:#0028BE;
+    text-align: center;
 }
 
 #info2{
@@ -156,3 +164,4 @@ h1 {
 	}
 
 }
+
