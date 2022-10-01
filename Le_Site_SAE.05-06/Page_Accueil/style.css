@@ -7,12 +7,10 @@ body {
     padding: 0;
     margin: 0;
 }
-ul {
-    margin: 0;
-    padding: 0;
-}
-li a{
+li {
     list-style-type: none;
+    margin: 10px;
+    margin-top: -2px;
 }
 h2{
     text-transform: uppercase;
@@ -28,6 +26,17 @@ li img{
     height: 50px;
     width: auto;
     object-position: 50% 50%;
+}
+li img:hover{
+    height:52px;
+    transition: ease-in-out 0.5s;
+}
+li a:hover{
+    background-color: white;
+    color: #0028BE;
+    border-radius: 10%;
+    font-size:22px;
+    transition: ease-in-out 0.5s;
 }
 /*****************************NAVBAR*********************** */
 nav{
@@ -80,16 +89,17 @@ h3 {
     color: rgb(164, 184, 252);
     font-size: 3em;
     text-shadow: 1px 4px 2px black;
+    margin: 50px;
 }
 /*******************PRESENTATION*****************************/
 #presentation {
     color: #0028BE;
     background-color: white;
-    padding: 10px 0px 100px 0px;
+    padding: 0px 0px 100px 0px;
     border-top: solid #0028BE 5px ;
 }
 #textIntro {
-    padding: 0px 20%;
+    padding: 0px ;
     text-align: center;
 }
 #prestations {
@@ -169,20 +179,20 @@ button:hover {
 #icon {
     width: 50%;
     text-align: right;
+    margin: 0px 5px;
 }
 #icon a {
-    background-color: white;
-    border: solid;
+    background-color: #0028BE;
     border-radius: 50px;
     display: inline-block;
     padding: 0 5px;
     font-size: 1.3em;
-    color: #0028BE;
+    color: white;
+    margin: 0px 2px;
 }
 #icon a:hover{
     color: white;
-    background-color: #0028BE;
-    transform: scale(1.5);
+    background-color: rgb(118, 127, 255);
     cursor: pointer;
     transition: 0.1s ease-in;
 }
