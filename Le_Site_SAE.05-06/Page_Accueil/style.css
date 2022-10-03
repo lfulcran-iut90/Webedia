@@ -102,6 +102,9 @@ h3 {
     padding: 0px ;
     text-align: center;
 }
+#presentation h2{
+    color: black;
+}
 #prestations {
     display: flex ;
     flex-wrap: wrap;
