@@ -1,32 +1,6 @@
 body{
     font-family: 'Advent Pro', sans-serif;
 }
-
-h1{
-  text-align: center;
-  color: rgb(164, 184, 252);
-  text-shadow: 1px 4px 2px black;
-  font-size: 4em;
-  margin-top: 130px;
-  margin-bottom: 100px;
-}
-
-li{
-    font-size: 25px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
-    display:inline;
-    padding: 25px;
-    margin-top: 90px;
-    border: solid 5px blue;
-}
-
-ul{
-    text-align: right;
-    margin-top:-60px;
-    margin-right: 60px;
-}
-
 .barre_nav{
     background-color: blue ;
     opacity: 70%;
@@ -34,57 +8,129 @@ ul{
     padding-bottom: 30px;
     margin: -1%;
 }
-.diagramme {
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    margin-left: 30px;
-    margin-bottom: 50px;
-    margin-top: 80px;
-    background-image: conic-gradient(
-        orange 40deg,
-        #9900CC 0 170deg,
-        #000066 0);
-}
-
-h2{
-  color: rgb(56, 49, 49);
-  text-shadow: 1px 4px 2px black;
-  font-size: 3em;
-  margin-left: 140px;
-  margin-top: -110px;
-}
-
 .webedia{
     width: 400px;
     margin-left: 60px;
     margin-top: 20px;
     margin-bottom: 10px;
 }
-
-li:hover{
-    font-size: 20px;
-    transition: ease-in-out 0.5s;
-    cursor: pointer;
-    color: blue;
-    background-color: white;
+a{
+  color: white;
+  text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    padding: 25px;
+    margin-top: 90px;
+    border-radius: 10%;
+    font-size: 25px;
+}
+ul{
+    text-align: right;
+    margin-top:-60px;
+    margin-right: 60px;
+}
+li{
+  color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+    padding: 25px;
+    margin-top: 90px;
+    border-radius: 20%;
+    font-size: 25px;
+}
+li a:hover{
+  color: blue;
+  background-color: white;
+    transition: ease-in-out 0.5s
+}
+h1{
+    text-align: center;
+    color: rgb(164, 184, 252);
+    text-shadow: 1px 4px 2px black;
+    font-size: 4em;
+    margin-top: 200px;
+    margin-bottom: 10px;
   }
-
+#premierTrait{
+      height: 2px;
+      width: 50%;
+      margin-top: 20px;
+      margin-bottom: 300px;
+      background-color: #0028BE;
+      box-shadow: 1px 3px 2px black;
+      margin-left: auto;
+      margin-right: auto
+  }
+.item{
+    border: 5px solid black;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom: 100px;
+    background-color: #1a237e;
+  }
+.diagramme {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-left: 90px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-image: conic-gradient(
+        orange 40deg,
+        #9900CC 0 170deg,
+        #000066 0);
+}
+.entête{
+  width: 380px;
+  height: 70px;
+  color: white;
+  text-shadow: 1px 4px 2px black;
+  font-size: 2em;
+  margin-top: -70px;
+}
+#finance {
+    background: url(fond_ecran/ finance.jpg) no-repeat fixed;
+    background-color: darkblue;
+    background-size: cover;
+    width: 250px;
+}
 .container-flex{display: flex;}
 .container{justify-content: space-evenly;}
 .container{align-items: center;}
 
-.item{border: 1px solid black}
-.item-width{width: 350px}
+.item-width1{width: 350px}
+.item-width2{width: 400px;}
+.item-width3{width: 300px;}
 .item-height-small{height: 60px;}
 
-.bloc{text-align: center;}
-
-.image1{padding: 30px;}
+.bloc{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.images1{padding: 30px;}
 .pose1{margin-left: 260px;}
-
-.image2{padding: 40px;}
 .pose2{margin-left: 140px;}
-
-.image3{padding: 40px;}
 .pose3{margin-left: 100px;}
+
+.images2{padding: 40px;}
+.pose4{
+  margin-left: 150px;
+  margin-top: 30px;
+}
+.pose5{
+  margin-left: 70px;
+  margin-top: 30px;
+}
+.pose6{
+  margin-left: 130px;
+  margin-top: 30px;
+}
+.images3{padding: 10px;}
+.pose7{
+  margin-left: 420px;
+  margin-bottom: 100px;
+}
+.pose8{
+  margin-left: 370px;
+}
