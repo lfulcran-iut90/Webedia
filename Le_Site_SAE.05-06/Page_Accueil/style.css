@@ -108,6 +108,10 @@ h3 {
     justify-content: space-between ;
     padding: 30px 10%;
 }
+#textIntro p{
+    font-size: 2em;
+    padding: 0px 100px;
+}
 .imagesPrestations h4 {
     font-family: 'Dancing Script', cursive;
     text-align: center;
