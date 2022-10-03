@@ -107,6 +107,14 @@ h1 {
     box-shadow: 1px 3px 2px black;
 }
 
+#TraitSeparation2{
+    height: 3px;
+    width: 75%;
+    margin: 100px auto;
+    background-color: #0028BE;
+    box-shadow: 1px 3px 2px black;
+}
+
 /************** TIMELINE **************/
 
 .timeline{
@@ -119,6 +127,7 @@ h1 {
 	list-style-type: none;
 	border-left: 8px solid #094a68;
 	padding: 10px 5px;
+    border-radius: 25px 25px;
 }
 
 .timeline ul li{
