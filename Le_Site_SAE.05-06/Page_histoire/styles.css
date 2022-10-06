@@ -4,6 +4,7 @@ body {
     font-family: 'Advent Pro', sans-serif;
     padding: 0;
     margin: 0;
+    /** overflow-x: hidden; */
 }
 
 ul {
@@ -42,7 +43,7 @@ nav{
     background-color: #0028BE;
     position: fixed;
     width: 100%;
-    opacity: 0.9;
+    opacity: 1;
     padding-top: 15px;
     padding-bottom: 15px;
     z-index: 100;
@@ -87,12 +88,12 @@ header li a{
     text-align: center;
     color: white;
     font-size: 60px;
-    padding-top: 80px;
+    padding-top: 150px;
 }
 
 #info1{
-    font-size: 30px ;
-    color: white    ;
+    font-size: 30px;
+    color: white;
     text-align: center;
 }
 
@@ -123,9 +124,13 @@ h1 {
 /************** TIMELINE (class) **************/
 
 .timeline{
-	width:800px;
+	width: 500px;
 	color:#0028BE;
 	padding: 0px 500px;
+}
+
+.timeline h3{
+    color: rgb(164, 184, 252);
 }
 
 .timeline ul{
@@ -142,20 +147,20 @@ h1 {
 	transition:.5s;
 }
 
-
-.timeline ul li span{
+.timeline ul li h3{
 	display:inline-block;
-	background-color:#1685b8;
+	background-color:#0028BE;
 	border-radius:25px;
 	padding:2px 5px;
 	font-size:15px;
 	text-align: center;
+    
 }
-.timeline ul li .content h3{
-	color:#34ace0;
-	font-size:17px;
-	padding-top:5px;
+
+.timeline ul li details{
+    color: black;
 }
+
 .timeline ul li .content p{
 	padding:5px 0px 15px 0px;
 	font-size:15px;
@@ -168,7 +173,7 @@ h1 {
 	background-color:#34ace0;
 	border-radius:50%;
 	left:-14px;
-	top:28px;
+	top:40px;
 	transition:.5s;
 }
 .timeline ul li:hover{
@@ -179,7 +184,7 @@ h1 {
 	background-color:#0F0;
 	box-shadow:0px 0px 10px 2px #0F0;
 }
-@media (max-width:300px){
+/*@media (max-width:500px){
 	.timeline{
 		width:100%;
 		padding:30px 5px 30px 10px;
@@ -189,7 +194,7 @@ h1 {
 		font-size:15px;
 	}
 
-}
+}*/
 
 /************** PIED DE PAGE **************/
 
@@ -197,7 +202,7 @@ footer{
     margin-top: 100px;
     border-top: solid #0028BE;
     background-color: #767FFF;
-    padding: 50px 50px 50px 10px;
+    padding: 50px 50px 50px 50px;
 }
 
 footer span{
