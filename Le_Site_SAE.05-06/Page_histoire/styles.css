@@ -45,6 +45,7 @@ nav{
     opacity: 0.9;
     padding-top: 15px;
     padding-bottom: 15px;
+    z-index: 100;
 }
 header li{
     float: right;
@@ -68,14 +69,18 @@ header li a{
 
 #imagePrincipale{
     padding-top: 70px;
-    background: url(medias/image_fond.jpg) no-repeat fixed 50% 50%;
+    background: url(image_fond.jpg) no-repeat fixed 50% 50%;
     background-size: cover;
     height: 600px;
     border-bottom: solid;
 }
 
-
-/************** TEXTE **************/
+#TraitSeparation{
+    height: 3px;
+    width: 75%;
+    margin: auto;
+    background-color: white;
+}
 
 #slogan{
     font-family: 'Advent Pro', sans-serif;
@@ -92,13 +97,20 @@ header li a{
 }
 
 
+/************** TIMELINE (div) **************/
+
+#timeline{
+    margin-top: -110px;
+    margin-bottom: -60px;
+}
+
 h1 {
     font-family: 'Dancing Script' cursive;
     text-align: center;
     color: rgb(164, 184, 252);
     font-size: 4em;
-    margin-top: 110px;
     text-shadow: 1px 4px 2px black;
+    margin-top: 150px;
     margin-left: 450px;
     margin-right: 450px;
     margin-bottom: 0px;
@@ -108,22 +120,7 @@ h1 {
 }
 
 
-#TraitSeparation{
-    height: 3px;
-    width: 75%;
-    margin: auto;
-    background-color: white;
-}
-
-#TraitSeparation2{
-    height: 3px;
-    width: 75%;
-    margin: 100px auto;
-    background-color: #0028BE;
-    box-shadow: 1px 3px 2px black;
-}
-
-/************** TIMELINE **************/
+/************** TIMELINE (class) **************/
 
 .timeline{
 	width:800px;
@@ -194,3 +191,16 @@ h1 {
 
 }
 
+/************** PIED DE PAGE **************/
+
+footer{
+    margin-top: 100px;
+    border-top: solid #0028BE;
+    background-color: #767FFF;
+    padding: 50px 50px 50px 10px;
+}
+
+footer span{
+    color: white;
+    font-size: 15px
+}
