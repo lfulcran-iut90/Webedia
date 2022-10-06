@@ -25,11 +25,6 @@ a{
     color: white;
 }
 
-li img:hover{
-    height: 52px;
-    transition: ease-in-out 0.5s;
-    background-color: #0028BE;
-}
 
 li a:hover{
     background-color: white;
@@ -48,10 +43,14 @@ nav{
     position: fixed;
     width: 100%;
     opacity: 0.9;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 header li{
     float: right;
     font-size: 1.2em;
+    padding-left: 10px;
+    margin-right: 20px;
 }
 header li a{
     text-decoration: none;
@@ -62,24 +61,34 @@ header li a{
 
 #logo{
     float: left;
-    color: white;
+}
+
+
+/************** IMAGE PRINCIPALE **************/
+
+#imagePrincipale{
+    padding-top: 70px;
+    background: url(image_fond.jpg) no-repeat fixed 50% 50%;
+    background-size: cover;
+    height: 600px;
+    border-bottom: solid;
 }
 
 
 /************** TEXTE **************/
 
 #slogan{
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Advent Pro', sans-serif;
     text-align: center;
-    color: #0028BE;
+    color: white;
     font-size: 60px;
+    padding-top: 80px;
 }
 
 #info1{
     font-size: 30px ;
-    color:#0028BE;
+    color: white    ;
     text-align: center;
-    padding-top: 100px;
 }
 
 
@@ -102,9 +111,8 @@ h1 {
 #TraitSeparation{
     height: 3px;
     width: 75%;
-    margin: -3px auto;
-    background-color: #0028BE;
-    box-shadow: 1px 3px 2px black;
+    margin: auto;
+    background-color: white;
 }
 
 #TraitSeparation2{
