@@ -34,7 +34,6 @@ li img:hover{
 li a:hover{
     background-color: white;
     color: #0028BE;
-    border-radius: 10%;
     font-size:22px;
     transition: ease-in-out 0.5s;
 }
@@ -67,7 +66,7 @@ header li a{
     background: url(media/image\ principale1.jpg) no-repeat fixed 50% 50% ;
     background-color: rgba(0,40,190);
     background-size: cover;
-    height: 799px;
+    height: 600px;
 }
 h1 {
     font-family: 'Dancing Script'cursive;
@@ -84,7 +83,7 @@ h1 {
     background-color: #0028BE;
     box-shadow: 1px 3px 2px black;
 }
-h3 {
+#imageprincipale h3 {
     text-align: center;
     color: rgb(164, 184, 252);
     font-size: 3em;
@@ -98,22 +97,20 @@ h3 {
     padding: 0px 0px 100px 0px;
     border-top: solid #0028BE 5px ;
 }
+#presentation p{
+    font-size: 25px;
+    text-align: justify;
+    margin: 0px 150px;
+}
 #textIntro {
     padding: 0px ;
     text-align: center;
-}
-#presentation h2{
-    color: black;
 }
 #prestations {
     display: flex ;
     flex-wrap: wrap;
     justify-content: space-between ;
     padding: 30px 10%;
-}
-#textIntro p{
-    font-size: 2em;
-    padding: 0px 100px;
 }
 .imagesPrestations h4 {
     font-family: 'Dancing Script', cursive;
