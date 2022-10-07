@@ -6,6 +6,8 @@ Vous allez retrouver notre site présentant l'entreprise que nous avons choisis.
 
 ## Ecran de zoning
 
+![écran de zoning](doc/Ecran_Zoning.jpg)
+
 
 ## Ecran type 
 
