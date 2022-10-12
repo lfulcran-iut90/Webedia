@@ -34,13 +34,13 @@ li a:hover{
 }
 /*****************************NAVBAR*********************** */
 nav{
-    margin: 10px;
     overflow: hidden;
     background-color: #0028BE;
     position: fixed;
     width: 100%;
     opacity: 0.95;
     z-index: 100;
+    margin: 10px;
     margin-top: -82px;
 }
 header{
@@ -66,7 +66,7 @@ header li a{
 /************************IMAGE PRINCIPALE*******************/
 #imageprincipale {
     padding-top: 60px;
-    background: url(imagep.jpg) no-repeat fixed 50% 50% ;
+    background: url(media/image2fond.jpg.webp) no-repeat fixed 50% 50% ;
     background-size: cover;
     background-color: #0028BE;
     height: 600px;
@@ -74,16 +74,19 @@ header li a{
 }
 #imageprincipale h3 {
     text-align: center;
-    color: rgb(164, 184, 252);
+    /*color: rgb(164, 184, 252);*/
+    color: #0028BE;;
     font-size: 3em;
     text-shadow: 1px 4px 2px black;
     margin-bottom: 30px;
+    margin-top: 110px;
 }
 #premierTrait {
     height: 2px;
     width: 25%;
     margin: -3px auto;
-    background-color: rgb(164, 184, 252);
+    /*background-color: rgb(164, 184, 252);*/
+    background-color: #0028BE;
     box-shadow: 1px 3px 2px black;
 }
 /*****************************DIAGRAMME*********************** */
@@ -129,18 +132,17 @@ header li a{
   border-left: solid;
   border-right: solid;
   margin: 0px 100px 80px 100px;
-  background-color: rgb(164, 184, 252);
 }
 .presentation img{
   margin-top: 70px;
   margin-bottom: 100px;
 }
+.image img{border-radius: 20px;}
+
 .sous-titre{
   text-align: center;
-  font-size: 3em;
-  text-decoration: underline;
-  color: white;
-  text-shadow: 1px 4px 2px black;
+  font-size: 3.25em;
+  color: #0028BE;
   margin-top: 70px;
   margin-bottom: 20px;
 }
@@ -152,6 +154,8 @@ header li a{
   color: black;
   margin-top: 30px;
   background-color: white;
+  border-radius: 20px;
+  border: 3px solid black;
 }
 .item2{
   width: 420px;
@@ -159,6 +163,8 @@ header li a{
   color: black;
   margin-top: 30px;
   background-color: white;
+  border-radius: 20px;
+  border: 3px solid black;
 }
 .item3{
   width: 300px;
@@ -166,10 +172,21 @@ header li a{
   color: black;
   margin-top: 30px;
   background-color: white;
+  border-radius: 20px;
+  border: 3px solid black;
 }
 .images1{padding: 30px;}
 .images2{padding: 40px;}
 .images3{padding: 10px;}
+
+.troisiemeTrait{
+  height: 3px;
+  width: 25%;
+  background-color: black;
+  margin-bottom: 120px;
+  margin-left: auto;
+  margin-right: auto;
+}
 /****************************FOOTER********************************************/
 .fin{
     background-color: #0028BE ;
