@@ -4,7 +4,6 @@ body {
     font-family: 'Advent Pro', sans-serif;
     padding: 0;
     margin: 0;
-    /** overflow-x: hidden; */
 }
 
 ul {
@@ -51,8 +50,7 @@ nav{
 header li{
     float: right;
     font-size: 1.2em;
-    padding-left: 10px;
-    margin-right: 20px;
+	margin-left: 175px;
 }
 header li a{
     text-decoration: none;
@@ -63,6 +61,7 @@ header li a{
 
 #logo{
     float: left;
+	margin-left: 5px;
 }
 
 
