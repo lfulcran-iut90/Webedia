@@ -48,7 +48,7 @@ nav{
     z-index: 100;
 }
 header li{
-    float: right;
+    float: left;
     font-size: 1.2em;
 	margin-left: 175px;
 }
