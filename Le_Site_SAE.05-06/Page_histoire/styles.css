@@ -50,7 +50,7 @@ nav{
 header li{
     float: left;
     font-size: 1.2em;
-	margin-left: 175px;
+	margin-left: 100px;
 }
 header li a{
     text-decoration: none;
@@ -60,8 +60,8 @@ header li a{
 }
 
 #logo{
-    float: left;
-	margin-left: 5px;
+    float: right;
+	margin-left: 15px;
 }
 
 
