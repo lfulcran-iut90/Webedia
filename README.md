@@ -9,6 +9,9 @@ FULCRAND Lucas -> Page histoire <br>
 SALMI Billal -> Page d'accueil et page de l'économie <br>
 POILBOIS Marco -> Page des statistiques
 
+## Autres tâches
+SALMI Billal -> Création de l'écran de zoning et de l'écran prototype
+
 ## Ecran de zoning
 
 ![écran de zoning](doc/Ecran_Zoning.jpg)
