@@ -10,7 +10,9 @@ SALMI Billal -> Page d'accueil et page de l'économie <br>
 POILBOIS Marco -> Page des statistiques
 
 ## Autres tâches
-SALMI Billal -> Création de l'écran de zoning et de l'écran prototype
+SALMI Billal -> Création de l'écran de zoning et de l'écran prototype <br>
+POILBOIS Marco -> Réponse aux questionnaires + l'envoie des deux <br>
+FULCRAND Lucas -> Création du Readme
 
 ## Ecran de zoning
 
