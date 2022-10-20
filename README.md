@@ -27,14 +27,13 @@ POILBOIS Marco -> Réponse aux questionnaires + l'envoie des deux
 
 ## Ecran de zoning
 
-![écran de zoning](doc/Ecran_Zoning.jpg)
+Nous avons eu carte blanche pour le zoning, grâce aux réponses du questionnaire. Le zoning ci-dessous est le même pour chaque page du groupe, nous le trouvons assez propre et érgonomique car nous remarquons bien les différentes parties de la page (Barre de navigation, le contenu, etc)
 
-Nous avons eu carte blanche pour le zoning, grâce aux réponses du questionnaire. Le zoning ci-dessus est le même pour chaque page du groupe, nous le trouvons assez propre et érgonomique car nous remarquons bien les différentes parties de la page (Barre de navigation, le contenu, etc)
+![écran de zoning](doc/Ecran_Zoning.jpg)
 
 ## Ecran prototype 
 
-![écran prototype](doc/Ecran_prototype_haut.jpg)
-![écran prototype](doc/Ecran_prototype_bas.jpg)
-
 Nous avons choisis ce design pour rester dans le thème de Webedia. En effet, la couleur de la barre de navigation est la même que celle du site officiel de Webedia. Le site de Webedia étant un site dynamique, nous avons pensés à rendre également notre site dynamique.
 
+![écran prototype](doc/Ecran_prototype_haut.jpg)
+![écran prototype](doc/Ecran_prototype_bas.jpg)
