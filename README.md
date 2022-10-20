@@ -16,7 +16,7 @@ POILBOIS Marco -> Page des statistiques
 ## Dossier "doc"
 [Ecran prototype (haut)](doc/Ecran_prototype_haut.jpg)<br>
 [Ecran prototype (bas)](doc/Ecran_prototype_bas.jpg)<br>
-[Rapport économique](doc/
+[Rapport économique](doc/Grp12_FULCRAND_Rapport_economique.pdf)<br>
 [Le pdf montrant la validation des sites](doc/Validation.pdf)
 
 ## Autres tâches
