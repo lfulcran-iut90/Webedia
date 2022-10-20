@@ -13,9 +13,9 @@ SALMI Billal -> [Page d'accueil](https://lfulcran-iut90.github.io/Webedia/Le_Sit
 POILBOIS Marco -> Page des statistiques
 
 ## Dossier "doc"
-[Ecran prototype (haut)](Ecran_prototype_haut.jpg)<br>
-[Ecran prototype (bas)](Ecran_prototype_bas.jpg)<br>
-[Le pdf montrant la validation des sites](https://github.com/lfulcran-iut90/Webedia/blob/main/doc/Validation.pdf)
+[Ecran prototype (haut)](doc/Ecran_prototype_haut.jpg)<br>
+[Ecran prototype (bas)](doc/Ecran_prototype_bas.jpg)<br>
+[Le pdf montrant la validation des sites](doc/Validation.pdf)
 
 ## Autres tâches
 
