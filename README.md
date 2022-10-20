@@ -13,3 +13,8 @@ Vous allez retrouver notre site présentant l'entreprise que nous avons choisis.
 ![écran prototype](doc/Ecran_prototype_haut.jpg)
 ![écran prototype](doc/Ecran_prototype_bas.jpg)
 
+### Auteur des pages
+FULCRAND Lucas -> Page histoire
+SALMI Billal -> Page d'accueil et page de l'économie
+POILBOIS Marco -> Page des statistiques
+
