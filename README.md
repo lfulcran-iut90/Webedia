@@ -1,4 +1,4 @@
-# Webedia
+# Diawebe
 Vous allez retrouver notre site présentant l'entreprise que nous avons choisis. Dans ce Readme, vous allez également trouver l'écran de zoning du site ainsi qu'un écran prototype.
 
 ### Composition du groupe :
