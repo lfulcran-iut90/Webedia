@@ -3,7 +3,7 @@
 Ce projet avait pour but de concevoir un site Web présentant notre entrerprise. Nous avons choisis Webedia renommé "Diawebe" pour faire savoir que vous vous retrouverez sur notre site.
 Vous allez retrouver sur ce Readme, la composition de notre groupe, l'auteur de chaque page présent sur le site, les liens menant au dossier "doc", les autres tâches réalisé pour ce projet ainsi que les images montrant l'écran prototype et le zoning.
 
-### Composition du groupe :
+### Composition du groupe (n°12) :
 
 [FULCRAND Lucas](mailto:lucas.fulcrand@edu.univ-fcomte.fr?subject=SAE_1_05_06) (Référent) - SALMI Billal - POILBOIS Marco
 
