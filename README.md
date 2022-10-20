@@ -13,17 +13,17 @@ FULCRAND Lucas -> Page histoire <br>
 SALMI Billal -> [Page d'accueil](https://lfulcran-iut90.github.io/Webedia/Le_Site_SAE.05-06/Page_Accueil/page_a.html) et page de l'économie <br>
 POILBOIS Marco -> Page des statistiques
 
-## Dossier "doc"
-[Ecran prototype (haut)](doc/Ecran_prototype_haut.jpg)<br>
-[Ecran prototype (bas)](doc/Ecran_prototype_bas.jpg)<br>
-[Rapport économique](doc/Grp12_FULCRAND_Rapport_economique.pdf)<br>
-[Le pdf montrant les tests de validité des sites](doc/Validation.pdf)
-
 ## Autres tâches
 
 FULCRAND Lucas -> Création du contenu du Readme <br>
 SALMI Billal -> Création de l'écran de zoning et de l'écran prototype <br>
 POILBOIS Marco -> Réponse aux questionnaires + l'envoie des deux
+
+## Dossier "doc"
+[Ecran prototype (haut)](doc/Ecran_prototype_haut.jpg)<br>
+[Ecran prototype (bas)](doc/Ecran_prototype_bas.jpg)<br>
+[Rapport économique](doc/Grp12_FULCRAND_Rapport_economique.pdf)<br>
+[Le pdf montrant les tests de validité des sites](doc/Validation.pdf)
 
 ## Ecran de zoning
 
