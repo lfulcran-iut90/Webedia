@@ -8,7 +8,7 @@ Vous allez retrouver notre site présentant l'entreprise que nous avons choisis.
 
 ## Auteur des pages
 
-FULCRAND Lucas -> Page histoire <href="https://lfulcran-iut90.github.io/Webedia/Le_Site_SAE.05-06/Page_histoire/Histoire.html>" <br>
+FULCRAND Lucas -> Page [histoire]("https://lfulcran-iut90.github.io/Webedia/Le_Site_SAE.05-06/Page_histoire/Histoire.html") <br>
 SALMI Billal -> Page d'accueil et page de l'économie <br>
 POILBOIS Marco -> Page des statistiques
 
