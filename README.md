@@ -14,9 +14,9 @@ POILBOIS Marco -> Page des statistiques
 
 ## Autres tâches
 
-FULCRAND Lucas -> Création du contenu du Readme
+FULCRAND Lucas -> Création du contenu du Readme <br>
 SALMI Billal -> Création de l'écran de zoning et de l'écran prototype <br>
-POILBOIS Marco -> Réponse aux questionnaires + l'envoie des deux <br>
+POILBOIS Marco -> Réponse aux questionnaires + l'envoie des deux
 
 ## Ecran de zoning
 
