@@ -1,6 +1,6 @@
 # Diawebe
 
-Ce projet avait pour but de concevoir un site Web présentant notre entrerprise. Nous avons choisis Webedia renommé "Diawebe" pour faire savoir que vous vous retrouverez sur notre site, il se compose avec son histoire, ses statistiques et son économie. De plus, vous allez retrouver sur ce Readme, la composition de notre groupe, l'auteur de chaque page présent sur le site, les liens menant au dossier "doc", les autres tâches réalisées pour ce projet ainsi que les images montrant le zoning et l'écran prototype.
+Ce projet avait pour but de concevoir un site Web présentant notre entrerprise. Nous avons choisis [Webedia](https://fr.webedia-group.com/) renommé "Diawebe" pour faire savoir que vous vous retrouverez sur notre site, il se compose avec son histoire, ses statistiques et son économie. De plus, vous allez retrouver sur ce Readme, la composition de notre groupe, l'auteur de chaque page présent sur le site, les liens menant au dossier "doc", les autres tâches réalisées pour ce projet ainsi que les images montrant le zoning et l'écran prototype.
 
 ### Composition du groupe (n°12) :
 
