@@ -29,7 +29,7 @@ POILBOIS Marco -> Réponse aux questionnaires + l'envoie des deux
 
 ![écran de zoning](doc/Ecran_Zoning.jpg)
 
-Pour les réponses au questionnaire, nous avons eu carte blanche pour le zoning. Le voici ci-dessus, il est le même pour chaque page du groupe, il est assez propre et érgonomique, nous remarquons bien les différentes parties de la page (Barre de navigation, le contenu, etc)
+Nous avons eu carte blanche pour le zoning, grâce aux réponses du questionnaire. Le zoning ci-dessus est le même pour chaque page du groupe, nous le trouvons assez propre et érgonomique car nous remarquons bien les différentes parties de la page (Barre de navigation, le contenu, etc)
 
 ## Ecran prototype 
 
