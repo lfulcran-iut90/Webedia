@@ -42,8 +42,6 @@ nav{
     position: fixed;
     width: 100%;
     opacity: 1;
-    padding-top: 15px;
-    padding-bottom: 15px;
     z-index: 100;
 }
 header li{
