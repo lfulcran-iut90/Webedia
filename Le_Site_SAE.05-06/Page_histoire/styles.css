@@ -29,7 +29,7 @@ a{
 li a:hover{
     background-color: white;
     color: #0028BE;
-    border-radius: 10%;
+    border-radius: 15%;
     font-size: 19px;
     transition: ease-in-out 0.5s;
 }
@@ -37,7 +37,6 @@ li a:hover{
 /************** NAVBAR **************/
 
 nav{
-    top: 0;
     overflow: hidden;
     background-color: #0028BE;
     position: fixed;
@@ -50,7 +49,7 @@ nav{
 header li{
     float: left;
     font-size: 1.2em;
-	margin-left: 100px;
+    margin-left: 100px;
 }
 header li a{
     text-decoration: none;
@@ -61,7 +60,7 @@ header li a{
 
 #logo{
     float: right;
-	margin-left: 15px;
+    margin-right: 15px;
 }
 
 
@@ -210,7 +209,7 @@ details > p{
     width: 80%;
 }
 
-/*@media (max-width:500px){
+@media (max-width:500px){
 	.timeline{
 		width:100%;
 		padding:30px 5px 30px 10px;
@@ -220,7 +219,7 @@ details > p{
 		font-size:15px;
 	}
 
-}*/
+}
 
 /************** PIED DE PAGE **************/
 
@@ -228,10 +227,16 @@ footer{
     margin-top: 100px;
     border-top: solid #0028BE;
     background-color: #767FFF;
-    padding: 50px 50px 50px 50px;
+    padding: 30px 30px 30px 30px;
+}
+
+footer p{
+    color: white;
+    font-size: 15px
 }
 
 footer span{
+    float: right;
     color: white;
-    font-size: 15px
+    font-size: 15px;
 }
