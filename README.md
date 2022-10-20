@@ -12,6 +12,8 @@ FULCRAND Lucas -> Page histoire <br>
 SALMI Billal -> [Page d'accueil](https://lfulcran-iut90.github.io/Webedia/Le_Site_SAE.05-06/Page_Accueil/page_a.html) et page de l'économie <br>
 POILBOIS Marco -> Page des statistiques
 
+### [Document PDF montrant la validation](https://github.com/lfulcran-iut90/Webedia/blob/main/doc/Validation.pdf)
+
 ## Autres tâches
 
 FULCRAND Lucas -> Création du contenu du Readme <br>
